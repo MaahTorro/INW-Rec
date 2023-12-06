@@ -1,2 +1,2 @@
-# INW-Rec
-Rec de INW
+# React-informaticando
+Site de informática feito em React
